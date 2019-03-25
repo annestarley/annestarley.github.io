@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+
+body{
+  align-content: center;
+  text-align: center;
+  font-family: 'Architects Daughter', cursive;
+  margin: auto;
+}
+
+p {
+  font-weight: bold;
+  font-size: 27px;
+}
+
+h1 {
+    color: #484848;
+}
+
+section {
+  text-align: center;
+}
+
+img {
+  border: 4px #484848 solid;
+  border-radius: 10%;
+  margin: auto;
+  box-shadow: 10px 10px 10px 10px gainsboro;
+}
+
+.pink, .green, .blue, .yellow, .red, .purple {
+  position: absolute;
+}
+
+.pink {
+  color: #F925FF;
+  top: 300px;
+  left: 1100px;
+}
+
+.green {
+  color: #21E863;
+  top: 100px;
+  left: 570px;
+}
+.blue {
+  color: #428BFF;
+  top: 200px;
+  left: 1300px;
+}
+
+.yellow {
+  color: #FFFE5F;
+  top: 350px;
+  left: 675px;
+}
+
+.red {
+  color: red;
+  top: 450px;
+  left: 1150px;
+}
+
+.purple {
+  color: #A836FF;
+  top: 500px;
+  left: 600px;
+}
