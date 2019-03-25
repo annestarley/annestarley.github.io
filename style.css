@@ -18,6 +18,7 @@ h1 {
 
 section {
   text-align: center;
+  position: relative;
 }
 
 img {
@@ -33,35 +34,35 @@ img {
 
 .pink {
   color: #F925FF;
-  top: 300px;
-  left: 1100px;
+  top: 200px;
+  left: 58%;
 }
 
 .green {
   color: #21E863;
-  top: 100px;
-  left: 570px;
+  top: 10px;
+  left: 30%;
 }
 .blue {
   color: #428BFF;
-  top: 200px;
-  left: 1300px;
+  top: 100px;
+  left: 65%;
 }
 
 .yellow {
   color: #FFFE5F;
-  top: 350px;
-  left: 675px;
+  top: 250px;
+  left: 35%;
 }
 
 .red {
   color: red;
-  top: 450px;
-  left: 1150px;
+  top: 350px;
+  left: 60%;
 }
 
 .purple {
   color: #A836FF;
-  top: 500px;
-  left: 600px;
+  top: 400px;
+  left: 32%;
 }
